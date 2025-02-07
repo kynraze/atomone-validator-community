@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Kynraze  |  https://kynraze.com  | https://x.com/Kynraze  | Indonesia  | kynraze  | kyn@kynraze.com  | kynraze  | 072E8CE2A42A129F95B3E40CCC5552E4EBD919EA6CD6514F0346082BB404A98A  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
